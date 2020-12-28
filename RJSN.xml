@@ -1,0 +1,8 @@
+<Project Version="2" Name="RJSN" FolderName="Packages">
+	<OutputDirectory>.</OutputDirectory>
+	<TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
+	<Packages>
+		<Package>PackageDefinitions\airport-rjsn-niigata.xml</Package>
+	</Packages>
+</Project>
+

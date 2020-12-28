@@ -1,0 +1,87 @@
+<AssetPackage Name="airport-rjsn-niigata" Version="0.1.0">
+	<ItemSettings>
+		<ContentType>SCENERY</ContentType>
+		<Title>RJSN Niigata</Title>
+		<Manufacturer/>
+		<Creator>berry</Creator>
+	</ItemSettings>
+	<Flags>
+		<VisibleInStore>false</VisibleInStore>
+		<CanBeReferenced>false</CanBeReferenced>
+	</Flags>
+	<AssetGroups>
+		<AssetGroup Name="ContentInfo">
+			<Type>ContentInfo</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\airport-rjsn-niigata\ContentInfo\</AssetDir>
+			<OutputDir>ContentInfo\airport-rjsn-niigata\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="berry_rjsntm">
+			<Type>ArtProj</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\berry_rjsntm\</AssetDir>
+			<OutputDir>scenery\berry_rjsntm\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="berry_rjsntm2">
+			<Type>ArtProj</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\berry_rjsntm2\</AssetDir>
+			<OutputDir>scenery\berry_rjsntm2\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="berry_rjsntm3">
+			<Type>ArtProj</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\berry_rjsntm3\</AssetDir>
+			<OutputDir>scenery\berry_rjsntm3\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="berry_rjsntte">
+			<Type>ArtProj</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\berry_rjsntte\</AssetDir>
+			<OutputDir>scenery\berry_rjsntte\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="berry_rjsnttw">
+			<Type>ArtProj</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\berry_rjsnttw\</AssetDir>
+			<OutputDir>scenery\berry_rjsnttw\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="berry_rjsntwr">
+			<Type>ArtProj</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\berry_rjsntwr\</AssetDir>
+			<OutputDir>scenery\berry_rjsntwr\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="berry_rjsnvor">
+			<Type>ArtProj</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\berry_rjsnvor\</AssetDir>
+			<OutputDir>scenery\berry_rjsnvor\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="rjsn">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>rjsn_asset\</AssetDir>
+			<OutputDir>scenery\</OutputDir>
+		</AssetGroup>
+	</AssetGroups>
+</AssetPackage>
+
