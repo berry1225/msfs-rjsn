@@ -54,7 +54,7 @@ AIS JAPANの資料に色々載ってるのでそれを見ながらILSの情報�
 |項目|推奨設定|RJSN RW28|RJCC RW19L|説明|
 |--|--|--|--|--|
 |Primary ILS|as required|v|v|どっちがプライマリ側かはVASI(PAPI)や進入灯の設定いじれば確認できる。たぶんScenery Editorで表示されている方がプライマリ。|
-|Friendly name|適切な名称|ILS RW28||然るべき名前で入力する必要あり。バニラ状態でILS着陸する時に確認できる。|
+|Friendly name|適切な名称|ILS RW28|ILS RW19L|然るべき名前で入力する必要あり。バニラ状態でILS着陸する時に確認できる。「ILS RW○○」が正解？|
 |Edit position|as required|as required|as required|ILSを移動させるかどうか。基本的には終端側に配置する。資料見ながら配置。|
 |Frequency|適切な数値|109300000|109350000|周波数。滑走路ごとに異なる。メガヘルツになるようにゼロをたくさん足す。(微妙に端数が合わなくても気にしない)|
 |Ident|適切な名称|IL28|IL19L|IL+方向+LかRかCか、っていう命名規則で入れておけば多分OK。|
