@@ -1,4 +1,4 @@
-<AssetPackage Name="airport-rjsn-niigata" Version="0.1.2">
+<AssetPackage Name="airport-rjsn-niigata" Version="2.0.0">
 	<ItemSettings>
 		<ContentType>SCENERY</ContentType>
 		<Title>RJSN Niigata</Title>
@@ -15,8 +15,24 @@
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageDefinitions\airport-rjsn-niigata\ContentInfo\</AssetDir>
+			<AssetDir>PackageDefinitions\airport-rjsn-niigata\ContentInfo</AssetDir>
 			<OutputDir>ContentInfo\airport-rjsn-niigata\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="berry_beacon">
+			<Type>ArtProj</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\berry_beacon\</AssetDir>
+			<OutputDir>scenery\berry_beacon\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="berry_materials">
+			<Type>MaterialLib</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\berry_materials\</AssetDir>
+			<OutputDir>MaterialLibs\berry_materials\</OutputDir>
 		</AssetGroup>
 		<AssetGroup Name="berry_rjsntm">
 			<Type>ArtProj</Type>
