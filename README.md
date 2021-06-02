@@ -284,7 +284,7 @@ RJCK(釧路)やRORS(下地島)のファイルも便利そうなのがいくつ�
 
 チョコレートか金平糖が足りてたら追記します。
 
-`Buy me a chocolate`
+`Buy me chocolate`
 
 　
 
